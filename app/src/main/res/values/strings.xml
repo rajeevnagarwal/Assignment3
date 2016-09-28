@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="directory">DIRECTORY</string>
+    <string name="sqlite">SQLITE DATABASE</string>
+    <string name="preference">SHARED PREFERENCES</string>
+</resources>
