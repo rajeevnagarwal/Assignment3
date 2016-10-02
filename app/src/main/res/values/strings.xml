@@ -1,6 +1,20 @@
 <resources>
-    <string name="app_name">Assignment3</string>
+    <string name="app_name">STORAGE</string>
     <string name="directory">DIRECTORY</string>
     <string name="sqlite">SQLITE DATABASE</string>
     <string name="preference">SHARED PREFERENCES</string>
+    <string name="text">Type anything to store in Shared Preferences</string>
+    <string name="internal_txt">Internal Storage</string>
+    <string name="external_txt">External Storage</string>
+    <string name="write">Write</string>
+    <string name="read">Read</string>
+    <string name="add">Add text to external file</string>
+    <string name="addi">Add text to internal file</string>
+    <string name="addp">Add Person</string>
+    <string name="updatep">Update Person</string>
+    <string name="deletep">Delete Person</string>
+    <string name = "printp">Print Records</string>
+    <string name="first">Enter First Name</string>
+    <string name="last">Enter Last Name</string>
+    <string name="id">Enter Id</string>
 </resources>
